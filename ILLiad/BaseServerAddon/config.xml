@@ -1,0 +1,17 @@
+<Configuration>
+  <Name>Sample Addon</Name>
+  <Author>Your Name</Author>
+  <Version>0.1.0</Version>
+  <Active>True</Active>
+  <Type>Server</Type>
+
+  <Description>A basic server addon</Description>
+
+  <Settings>    
+  </Settings>
+
+  <Files>
+    <File>Code.lua</File>
+  </Files>
+
+</Configuration>
