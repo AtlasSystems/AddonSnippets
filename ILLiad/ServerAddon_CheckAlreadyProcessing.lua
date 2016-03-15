@@ -11,7 +11,7 @@ function TimerElapsed(eventArgs)
 
     DoSomething();
 
-    isCurrentlyProcessing = true;
+    isCurrentlyProcessing = false;
   else
     LogDebug("Skipping processing.");
   end
